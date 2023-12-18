@@ -1,9 +1,11 @@
+package ChatBot;
+
 import java.util.Scanner;
 
 public class VanProgram {
     public static void main(String[] args) {
-        System.out.println("Hello! My name is Van \n I was created in 2022.");
-        System.out.println("Please, remind me your name:");
+        System.out.println("Hello! My name is Van \n I was created in 2023.");
+        System.out.println("Please, remind me your names:");
 
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();
