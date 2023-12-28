@@ -1,4 +1,3 @@
-package MatrixProcessing;
 
 import java.util.Scanner;
 
@@ -280,7 +279,6 @@ public class MatrixProcessing {
         return inverseMatrix;
     }
 }
-
 
 
 
